@@ -2,4 +2,4 @@
 
 Noise of Background Radio Frequencies
 
-Michael.Kalin's Aerospace Honors Reasearch Project
+Michael Kalin's Aerospace Honors Reasearch Project
