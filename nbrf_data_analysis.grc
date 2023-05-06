@@ -52,7 +52,7 @@ blocks:
     alias: ''
     begin_tag: pmt.PMT_NIL
     comment: ''
-    file: /home/pi/nbrf_folder/ns114_samples/ns114.bin
+    file: /home/pi/nbrf_folder/ns117/data.bin
     length: '0'
     maxoutbuf: '0'
     minoutbuf: '0'
@@ -85,7 +85,7 @@ blocks:
     autoscale: 'False'
     average: '0.05'
     axislabels: 'True'
-    bw: 60e6
+    bw: 100e6
     color1: '"blue"'
     color10: '"dark blue"'
     color2: '"red"'
@@ -98,7 +98,7 @@ blocks:
     color9: '"dark green"'
     comment: ''
     ctrlpanel: 'False'
-    fc: 900e6
+    fc: 2400e6
     fftsize: '1024'
     freqhalf: 'True'
     grid: 'False'
@@ -164,7 +164,7 @@ blocks:
     alpha8: '1.0'
     alpha9: '1.0'
     axislabels: 'True'
-    bw: 60e6
+    bw: 100e6
     color1: '0'
     color10: '0'
     color2: '0'
@@ -176,7 +176,7 @@ blocks:
     color8: '0'
     color9: '0'
     comment: ''
-    fc: 900e6
+    fc: 2400e6
     fftsize: '1024'
     freqhalf: 'True'
     grid: 'False'
